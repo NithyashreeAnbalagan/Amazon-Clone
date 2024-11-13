@@ -1,0 +1,2 @@
+This is a simple, responsive Amazon Clone website built using HTML and CSS. The project aims to replicate the structure and design of Amazon's homepage, providing a basic understanding of how to create an 
+e-commerce-like interface. This clone focuses on layout, responsiveness, and styling using just HTML and CSS, making it an ideal project for beginners looking to improve their front-end web development skills.
